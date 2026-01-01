@@ -1,0 +1,22 @@
+[
+  { "id": "ex-1", "name": "Yürüyüş (Normal)", "category": "Kardiyo", "caloriesPerMinute": 4, "difficulty": "Kolay", "muscleGroup": "Bacaklar", "description": "Düz zeminde normal tempoda yürüyüş", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "ex-2", "name": "Koşu (Hafif)", "category": "Kardiyo", "caloriesPerMinute": 8, "difficulty": "Orta", "muscleGroup": "Bacaklar", "description": "Hafif tempoda koşu", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "ex-3", "name": "Koşu (Hızlı)", "category": "Kardiyo", "caloriesPerMinute": 12, "difficulty": "Zor", "muscleGroup": "Bacaklar", "description": "Hızlı tempoda koşu", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "ex-4", "name": "Bisiklet", "category": "Kardiyo", "caloriesPerMinute": 7, "difficulty": "Orta", "muscleGroup": "Bacaklar", "description": "Bisiklet sürme", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "ex-5", "name": "Yüzme", "category": "Kardiyo", "caloriesPerMinute": 9, "difficulty": "Orta", "muscleGroup": "Tüm Vücut", "description": "Serbest stil yüzme", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "ex-6", "name": "İp Atlama", "category": "Kardiyo", "caloriesPerMinute": 11, "difficulty": "Orta", "muscleGroup": "Tüm Vücut", "description": "İp atlama egzersizi", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "ex-10", "name": "Şınav", "category": "Kuvvet", "caloriesPerMinute": 7, "difficulty": "Orta", "muscleGroup": "Göğüs, Kollar", "description": "Klasik şınav hareketi", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "ex-11", "name": "Mekik", "category": "Kuvvet", "caloriesPerMinute": 6, "difficulty": "Kolay", "muscleGroup": "Karın", "description": "Klasik mekik hareketi", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "ex-12", "name": "Squat", "category": "Kuvvet", "caloriesPerMinute": 8, "difficulty": "Orta", "muscleGroup": "Bacaklar", "description": "Vücut ağırlığı ile squat", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "ex-13", "name": "Plank", "category": "Kuvvet", "caloriesPerMinute": 4, "difficulty": "Orta", "muscleGroup": "Core", "description": "Plank pozisyonunda bekleme", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "ex-14", "name": "Lunge", "category": "Kuvvet", "caloriesPerMinute": 6, "difficulty": "Orta", "muscleGroup": "Bacaklar", "description": "İleri adım hareketi", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "ex-15", "name": "Burpee", "category": "Kuvvet", "caloriesPerMinute": 10, "difficulty": "Zor", "muscleGroup": "Tüm Vücut", "description": "Tam vücut egzersizi", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "ex-20", "name": "Yoga (Hafif)", "category": "Esneklik", "caloriesPerMinute": 3, "difficulty": "Kolay", "muscleGroup": "Tüm Vücut", "description": "Temel yoga hareketleri", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "ex-21", "name": "Pilates", "category": "Esneklik", "caloriesPerMinute": 4, "difficulty": "Orta", "muscleGroup": "Core", "description": "Pilates egzersizleri", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "ex-22", "name": "Streching", "category": "Esneklik", "caloriesPerMinute": 2, "difficulty": "Kolay", "muscleGroup": "Tüm Vücut", "description": "Esneme hareketleri", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "ex-30", "name": "HIIT", "category": "HIIT", "caloriesPerMinute": 12, "difficulty": "Zor", "muscleGroup": "Tüm Vücut", "description": "Yüksek yoğunluklu interval antrenman", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "ex-31", "name": "Tabata", "category": "HIIT", "caloriesPerMinute": 13, "difficulty": "Zor", "muscleGroup": "Tüm Vücut", "description": "20sn çalış, 10sn dinlen", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "ex-40", "name": "Dumbbell Curl", "category": "Ağırlık", "caloriesPerMinute": 5, "difficulty": "Orta", "equipment": "Dumbbell", "muscleGroup": "Biceps", "description": "Dumbbell ile biceps çalışması", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "ex-41", "name": "Bench Press", "category": "Ağırlık", "caloriesPerMinute": 6, "difficulty": "Orta", "equipment": "Barbell", "muscleGroup": "Göğüs", "description": "Bench press hareketi", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "ex-42", "name": "Deadlift", "category": "Ağırlık", "caloriesPerMinute": 8, "difficulty": "Zor", "equipment": "Barbell", "muscleGroup": "Sırt, Bacaklar", "description": "Deadlift hareketi", "createdAt": "2024-01-01T00:00:00.000Z" }
+]

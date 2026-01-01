@@ -1,0 +1,15 @@
+[
+  {
+    "id": "admin-001",
+    "username": "admin",
+    "password": "admin123",
+    "fullName": "Dyt Ayşenur Korkmaz",
+    "email": "admin@admin.com",
+    "phone": "+90 555 000 00 00",
+    "age": 30,
+    "weight": 60,
+    "height": 165,
+    "createdAt": "2026-01-01T01:34:23.285Z",
+    "isAdmin": true
+  }
+]

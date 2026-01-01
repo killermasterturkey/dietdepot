@@ -1,0 +1,116 @@
+[
+  {
+    "id": "recipe-1",
+    "name": "Avokadolu Yumurta",
+    "category": "Kahvaltı",
+    "ingredients": [
+      { "foodId": "food-12", "foodName": "Yumurta", "amount": 2, "unit": "adet" },
+      { "foodId": "food-44", "foodName": "Avokado", "amount": 0.5, "unit": "adet" }
+    ],
+    "instructions": "Yumurtaları haşlayın. Avokadoyu ikiye bölün ve çekirdeğini çıkarın. Haşlanmış yumurtaları dilimleyin ve avokado üzerine yerleştirin.",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 1,
+    "totalCalories": 350,
+    "totalProtein": 18,
+    "totalCarbs": 8,
+    "totalFat": 28,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "recipe-2",
+    "name": "Yulaf Ezmesi Bowlu",
+    "category": "Kahvaltı",
+    "ingredients": [
+      { "foodId": "food-1", "foodName": "Yulaf Ezmesi", "amount": 50, "unit": "gram" },
+      { "foodId": "food-31", "foodName": "Muz", "amount": 1, "unit": "adet" },
+      { "foodId": "food-50", "foodName": "Badem", "amount": 10, "unit": "gram" }
+    ],
+    "instructions": "Yulaf ezmesini süt ile pişirin. Üzerine dilimlenmiş muz ve badem ekleyin.",
+    "prepTime": 5,
+    "cookTime": 5,
+    "servings": 1,
+    "totalCalories": 380,
+    "totalProtein": 12,
+    "totalCarbs": 55,
+    "totalFat": 14,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "recipe-3",
+    "name": "Izgara Tavuk Salatası",
+    "category": "Ana Yemek",
+    "ingredients": [
+      { "foodId": "food-10", "foodName": "Tavuk Göğsü", "amount": 150, "unit": "gram" },
+      { "foodId": "food-42", "foodName": "Domates", "amount": 100, "unit": "gram" },
+      { "foodId": "food-43", "foodName": "Salatalık", "amount": 100, "unit": "gram" },
+      { "foodId": "food-70", "foodName": "Zeytinyağı", "amount": 10, "unit": "ml" }
+    ],
+    "instructions": "Tavuk göğsünü ızgara yapın. Sebzeleri doğrayın ve tavuk ile karıştırın. Zeytinyağı ile servis edin.",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 1,
+    "totalCalories": 380,
+    "totalProtein": 48,
+    "totalCarbs": 8,
+    "totalFat": 18,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "recipe-4",
+    "name": "Mercimek Çorbası",
+    "category": "Çorba",
+    "ingredients": [
+      { "foodId": "food-60", "foodName": "Mercimek", "amount": 100, "unit": "gram" },
+      { "foodId": "food-42", "foodName": "Domates", "amount": 50, "unit": "gram" },
+      { "foodId": "food-70", "foodName": "Zeytinyağı", "amount": 10, "unit": "ml" }
+    ],
+    "instructions": "Mercimeği yıkayın ve haşlayın. Domates ekleyip blenderdan geçirin. Zeytinyağı ile servis edin.",
+    "prepTime": 10,
+    "cookTime": 30,
+    "servings": 2,
+    "totalCalories": 280,
+    "totalProtein": 12,
+    "totalCarbs": 35,
+    "totalFat": 12,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "recipe-5",
+    "name": "Somon Izgara",
+    "category": "Ana Yemek",
+    "ingredients": [
+      { "foodId": "food-11", "foodName": "Somon", "amount": 200, "unit": "gram" },
+      { "foodId": "food-40", "foodName": "Brokoli", "amount": 150, "unit": "gram" },
+      { "foodId": "food-70", "foodName": "Zeytinyağı", "amount": 10, "unit": "ml" }
+    ],
+    "instructions": "Somonu ızgara yapın. Brokoliyi buharda pişirin. Zeytinyağı ile servis edin.",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 1,
+    "totalCalories": 550,
+    "totalProtein": 45,
+    "totalCarbs": 12,
+    "totalFat": 38,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "recipe-6",
+    "name": "Smoothie Bowl",
+    "category": "Kahvaltı",
+    "ingredients": [
+      { "foodId": "food-31", "foodName": "Muz", "amount": 1, "unit": "adet" },
+      { "foodId": "food-33", "foodName": "Çilek", "amount": 100, "unit": "gram" },
+      { "foodId": "food-21", "foodName": "Yoğurt", "amount": 150, "unit": "gram" }
+    ],
+    "instructions": "Tüm malzemeleri blenderdan geçirin. Kaseye dökün ve üzerine granola ekleyin.",
+    "prepTime": 5,
+    "cookTime": 0,
+    "servings": 1,
+    "totalCalories": 250,
+    "totalProtein": 10,
+    "totalCarbs": 45,
+    "totalFat": 5,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  }
+]
